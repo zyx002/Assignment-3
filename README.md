@@ -1,2 +1,2 @@
-# Assignment-3
-the homework for Assignment 3
+# Assignment-3  --ACA2021-Example
+An Example for Academic Writing, Norms, and Ethics
